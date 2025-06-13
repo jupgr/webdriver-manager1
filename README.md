@@ -35,12 +35,5 @@ Além da configuração básica, foram realizadas as seguintes instalações par
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [JDK LTS](https://github.com/corretto/corretto-17/releases/) - Máquina Virtual com JDK LTS 17
 
-##  Versão do Treinamento
 
-Atemporal mas primeiramente publicado em 2024
 
-## ✒️ Autores
-
-Juliana Garcia - Desenvolvimento e Documentação
-
-## 📄 Licença
